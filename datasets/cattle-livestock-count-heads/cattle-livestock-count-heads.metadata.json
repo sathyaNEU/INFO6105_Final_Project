@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Number of cattle",
+    "citation": "Food and Agriculture Organization of the United Nations (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/cattle-livestock-count-heads?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Nigeria",
+      "Canada",
+      "New Zealand",
+      "India",
+      "Brazil"
+    ]
+  },
+  "columns": {
+    "Cattle | 00000866 || Stocks | 005111 || animals": {
+      "titleShort": "Number of cattle",
+      "titleLong": "Number of cattle - FAO",
+      "descriptionKey": [],
+      "shortUnit": "",
+      "unit": "animals",
+      "timespan": "1961-2022",
+      "type": "Integer",
+      "owidVariableId": 835136,
+      "shortName": "cattle__00000866__stocks__005111__animals",
+      "lastUpdated": "2024-03-14",
+      "nextUpdate": "2025-03-14",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2023) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2023) – with major processing by Our World in Data. “Number of cattle – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/835136.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-04"
+}
